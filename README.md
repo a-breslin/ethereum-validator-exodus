@@ -9,7 +9,7 @@ The following situations are examining:
 - Time to pass a blockage in withdrawal queue based on exiting network share (unmatched by new deposits)
 
 
-![Unmatched Exodus](./figures/annotated-exodus-unmatched.png)
+![Unmatched Exodus](./figures/annotated-exodus-unmatched-2.png)
 
 
 ## Analysis Limitations
